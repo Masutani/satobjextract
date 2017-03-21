@@ -1,0 +1,15 @@
+Package: satobjextract
+Title: Object extraction from satellite images
+Version: 0.0.0.9000
+Authors@R: person('Osamu', 'Masutani', email='o.masutani@japantaxi.co.jp', role=c('aut', 'cre'))
+Description: Object extraction from satellite images.
+Depends:
+    R (>= 3.3.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    mxnet,EBImage,maptools,sp,ggplot2,ggmap
+URL: https://github.com/Masutani/satobjextract
+BugReports: https://github.com/Masutani/satobjextract/issues
+RoxygenNote: 5.0.1
