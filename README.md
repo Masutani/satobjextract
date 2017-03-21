@@ -1,5 +1,5 @@
 
-# Ground object extractio from satellite image
+# Ground object extraction from satellite image
 
 R Library satobjextract is small package to extract object from ground satellite image.
 This utilizes CNN(Convolutional Neural Network) in MXNet to train object detection model.
